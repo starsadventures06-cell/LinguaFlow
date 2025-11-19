@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow AI",
+  "description": "An immersive language learning platform powered by Gemini 2.5. Learn through conversation, visual context creation, and cultural exploration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
